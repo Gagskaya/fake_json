@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "email": "admin@mail.ru",
+      "password": "$2a$10$MpwgdgfYsbyqx6NcsPPo2OFaI0unSBhxVjaWG1c3sDBou8r0pxWY.",
+      "id": 1,
+      "firstName": "Вася",
+      "lastName": "Петрович",
+      "birthday": "01.01.1976",
+      "city": "Москва"
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "userId": 1,
+      "author": "admin",
+      "title": "Билет 1",
+      "description": "Описание билета 1",
+      "created_at": "09.01.2024"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "author": "admin",
+      "title": "Билет 2",
+      "description": "Описание билета 2",
+      "created_at": "09.01.2024"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "author": "admin",
+      "title": "Билет 3",
+      "description": "Описание билета 3",
+      "created_at": "09.01.2024"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "author": "admin",
+      "title": "Билет 4",
+      "description": "Описание билета 4",
+      "created_at": "09.01.2024"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "author": "admin",
+      "title": "Билет 5",
+      "description": "Описание билета 5",
+      "created_at": "09.01.2024"
+    }
+  ]
+}
